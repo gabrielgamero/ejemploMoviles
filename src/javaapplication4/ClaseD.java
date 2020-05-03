@@ -10,5 +10,6 @@ package javaapplication4;
  * @author Gabriel
  */
 public class ClaseD {
-    
+    private int valor1;
+    private int valor2;
 }
